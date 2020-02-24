@@ -24,18 +24,18 @@
 
 * 2020-05-07 
 
-* 2020-05-14 
+* 2020-05-14 - Prezentaje projektów Reprodukowalność I
 
-* 2020-05-21 
+* 2020-05-21 - Prezentzacje projektów Imputacja 
 
-* 2020-05-28 
+* 2020-05-28 - Prezentacje projektów Inżynieria Cech
 
-* 2020-06-04 
+* 2020-06-04 - Prezentacje projektów Reprodukowalność II
 
 
 ## Zasady zaliczenia
 
-Łącznie do zdobycia jest 100 pkt., 60 pkt. za projekt oraz 40 pkt. za prace domowe i prezentacje.
+Łącznie do zdobycia jest 100 pkt., 55 pkt. za projekt oraz 45 pkt. za prace domowe i prezentacje.
 
 Oceny:
 - 3 - 51 - 60 pkt
