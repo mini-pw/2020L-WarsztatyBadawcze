@@ -24,7 +24,7 @@
 
 * 2020-05-07 
 
-* 2020-05-14 - Prezentaje projektów Reprodukowalność I
+* 2020-05-14 - Prezentacje projektów Reprodukowalność I
 
 * 2020-05-21 - Prezentzacje projektów Imputacja 
 
