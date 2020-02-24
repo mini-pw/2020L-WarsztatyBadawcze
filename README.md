@@ -2,7 +2,7 @@
 
 ## Plan Wykładów (czwartek 10:15, s. 328)
 
-* 2020-02-27 - Omówienie planu przedmiotu, projektów oraz zasad zaliczenia.
+* 2020-02-27 - Omówienie planu przedmiotu, projektów oraz zasad zaliczenia. [blogdown](https://bookdown.org/yihui/blogdown/)
 
 * 2020-03-05 
 
