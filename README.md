@@ -8,7 +8,7 @@
 
 * 2020-03-12 - Dominika Basaj ([Tooploox](https://www.tooploox.com/))
 
-* 2020-03-19 
+* 2020-03-19 - Maja Kalinowska
 
 * 2020-03-26 
 
@@ -26,9 +26,9 @@
 
 * 2020-05-14 - Prezentacje projektów Reprodukowalność I
 
-* 2020-05-21 - Prezentzacje projektów Imputacja 
+* 2020-05-21 - Prezentacje projektów Inżynieria Cech
 
-* 2020-05-28 - Prezentacje projektów Inżynieria Cech
+* 2020-05-28 - Prezentzacje projektów Imputacja 
 
 * 2020-06-04 - Prezentacje projektów Reprodukowalność II
 
