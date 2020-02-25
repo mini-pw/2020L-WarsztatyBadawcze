@@ -10,7 +10,7 @@
 
 * 2020-03-19 - Maja Kalinowska
 
-* 2020-03-26 - Tuatara
+* 2020-03-26 - Adrian Dembek ([Tuatara](https://www.tuatara.pl/))
 
 * 2020-04-02 
 
