@@ -6,7 +6,7 @@
 
 * 2020-03-05 
 
-* 2020-03-12 
+* 2020-03-12 - Dominika Basaj ([Tooploox](https://www.tooploox.com/))
 
 * 2020-03-19 
 
