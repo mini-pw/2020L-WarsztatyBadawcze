@@ -14,7 +14,7 @@
 
 * 2020-04-02 - Marcin Kosiński ([Why R?](http://whyr.pl/foundation/), [Gradient Metrics](https://www.gradientmetrics.com/))
 
-* 2020-04-09 
+* 2020-04-09 - Piotr Pasza Storożenko
 
 * 2020-04-16 - konferencja NIAM 
 
