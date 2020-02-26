@@ -12,7 +12,7 @@
 
 * 2020-03-26 - Adrian Dembek ([Tuatara](https://www.tuatara.pl/))
 
-* 2020-04-02 - Marcin Kosiński ([Why R?](http://whyr.pl/foundation/))
+* 2020-04-02 - Marcin Kosiński ([Why R?](http://whyr.pl/foundation/), [Gradient Metrics](https://www.gradientmetrics.com/))
 
 * 2020-04-09 
 
