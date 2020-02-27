@@ -35,7 +35,12 @@
 
 ## Zasady zaliczenia
 
-Łącznie do zdobycia jest 100 pkt., 55 pkt. za projekt oraz 45 pkt. za prace domowe i prezentacje.
+Łącznie do zdobycia jest 100 pkt., 
+- 40 pkt. za projekt (artykuł),
+- 15 pkt. za lightning talk (o artykule),
+- 15 pkt. za prezentację,
+- 15 pkt. za prace domowe,
+- 15 pkt. za wpis na blogu.
 
 Oceny:
 - 3 - 51 - 60 pkt
