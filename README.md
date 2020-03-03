@@ -4,7 +4,7 @@
 
 * 2020-02-27 - Omówienie planu przedmiotu, projektów oraz zasad zaliczenia.
 
-* 2020-03-05 - Rafał Kobiela ([PwC](https://www.pwc.pl/))
+* 2020-03-05 - Rafał Kobiela ([Zespół Data Analytics w PwC](https://www.pwc.pl/pl/kariera/hello-world-data-analytics.html))
 
 * 2020-03-12 - Dominika Basaj 
 
@@ -22,7 +22,7 @@
 
 * 2020-04-30 
 
-* 2020-05-07 
+* 2020-05-07 - Michał Broniś ([Warta](https://www.warta.pl/))
 
 * 2020-05-14 - Prezentacje projektów Reprodukowalność I
 
