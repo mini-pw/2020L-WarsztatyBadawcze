@@ -6,7 +6,7 @@
 
 * 2020-03-05 - Rafał Kobiela ([Zespół Data Analytics w PwC](https://www.pwc.pl/pl/kariera/hello-world-data-analytics.html))
 
-* 2020-03-12 - Dominika Basaj 
+* 2020-03-12 - Dominika Basaj ([Tooploox](https://www.tooploox.com/))
 
 * 2020-03-19 - Maja Kalinowska
 
