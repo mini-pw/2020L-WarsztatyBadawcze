@@ -6,17 +6,17 @@
 
 * 2020-03-05 - Rafał Kobiela ([Zespół Data Analytics w PwC](https://www.pwc.pl/pl/kariera/hello-world-data-analytics.html))
 
-* 2020-03-12 - Dominika Basaj ([Tooploox](https://www.tooploox.com/))
+* 2020-03-12 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-03-19 - Maja Kalinowska
+* 2020-03-19 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-03-26 - Adrian Dembek ([Tuatara](https://www.tuatara.pl/))
+* 2020-03-26 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-04-02 - Marcin Kosiński ([Why R?](http://whyr.pl/foundation/), [Gradient Metrics](https://www.gradientmetrics.com/))
+* 2020-04-02 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-04-09 - Piotr Pasza Storożenko
+* 2020-04-09 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-04-16 - konferencja NIAM 
+* 2020-04-16 
 
 * 2020-04-23 - Kamil Kmita
 
