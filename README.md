@@ -14,11 +14,11 @@
 
 * 2020-04-02 - Wstrzymane z powodu zdalnej formy zajęć
 
-* 2020-04-09 - Wstrzymane z powodu zdalnej formy zajęć
+* 2020-04-09 
 
 * 2020-04-16 
 
-* 2020-04-23 - Kamil Kmita
+* 2020-04-23
 
 * 2020-04-30 
 
