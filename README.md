@@ -22,13 +22,13 @@
 
 * 2020-04-30 
 
-* 2020-05-07 - Michał Broniś ([Warta](https://www.warta.pl/))
+* 2020-05-07 - Opis części metodologicznej Reprodukowalność
 
-* 2020-05-14 - Prezentacje projektów Reprodukowalność I
+* 2020-05-14 - Opis części metodologicznej Imputacja
 
 * 2020-05-21 - Prezentacje projektów Inżynieria Cech
 
-* 2020-05-28 - Prezentzacje projektów Imputacja 
+* 2020-05-28 - Prezentacje projektów Imputacja 
 
 * 2020-06-04 - Prezentacje projektów Reprodukowalność II
 
