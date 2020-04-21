@@ -26,11 +26,11 @@
 
 * 2020-05-14 - Opis części metodologicznej Imputacja
 
-* 2020-05-21 - Prezentacje projektów Inżynieria Cech
+* 2020-05-21 - Prezentacje projektów Inżynieria Cech (Lightningtalks)
 
-* 2020-05-28 - Prezentacje projektów Imputacja 
+* 2020-05-28 - Prezentacje projektów Imputacja (Lightningtalks)
 
-* 2020-06-04 - Prezentacje projektów Reprodukowalność II
+* 2020-06-04 - Prezentacje projektów Reprodukowalność (Lightningtalks)
 
 
 ## Zasady zaliczenia
