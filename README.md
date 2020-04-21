@@ -6,13 +6,13 @@
 
 * 2020-03-05 - Rafał Kobiela ([Zespół Data Analytics w PwC](https://www.pwc.pl/pl/kariera/hello-world-data-analytics.html))
 
-* 2020-03-12 - Wstrzymane z powodu zdalnej formy zajęć
+* 2020-03-12 
 
-* 2020-03-19 - Wstrzymane z powodu zdalnej formy zajęć
+* 2020-03-19 
 
-* 2020-03-26 - Wstrzymane z powodu zdalnej formy zajęć
+* 2020-03-26 
 
-* 2020-04-02 - Wstrzymane z powodu zdalnej formy zajęć
+* 2020-04-02 
 
 * 2020-04-09 
 
